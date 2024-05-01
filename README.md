@@ -6,4 +6,5 @@ The code in this repository will follow the steps below:
 3. Visualization.
 4. Building Pipeline.
 5. Evaluate metrics.
+6. 
 After completion, the complete pipeline can handle raw data and transform it into a useful value for the user.
